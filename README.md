@@ -10,7 +10,7 @@
 4. Open our website under: "https://crypto-answer-il2.anvil.app/"
 5. Type in any question about cryptocurrency and click "ASK"
 
-**Using our website requires having the colab notebook connected to it at all times**. If no notebook is connected an error will appear.
+**Using our website requires having the colab notebook connected to it at all times**. If no notebook is connected an error will appear. It is also not possible to have two notebooks connected to the server at one time.
 
 
 ## Tools ##
