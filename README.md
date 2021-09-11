@@ -2,15 +2,15 @@
 
 ## Using our system: ##
 
-1. Upload "training_data_fine_tuning.json" to [Google Drive](http://drive.google.com/). Make sure it is in the right folder. The folder structure is as following: "Colab Notebooks/Crypto-Answer/data/squad20/
-2. Upload "crypto-answer-il2.ipynb" to [Google Colab](https://colab.research.google.com/). Make sure you have the runtime settings on "GPU"
+1. Upload "training_data_fine_tuning.json" to [Google Drive](http://drive.google.com/). Make sure it is in the right folder. The folder structure is as following: "Colab Notebooks/Crypto-Answer/data/squad20/".
+2. Open "Crypto-Answer.ipynb" in Google Chrome from [Google Colab](https://colab.research.google.com/). Make sure you have the runtime settings on "GPU". 
 3. Run all blocks of code in colab (with GPU enabled it will take ~ 25 min)
-3.1 Connect colab to google drive with clicking on the link, displayed under the corresponding code block, copying the code into the input-field and finally pressing enter
-3.2 If you do not have access to google drive, you can also upload "training_data_fine_tuning.json" directly to colab. In this case you haave to change data_dir variable to ""
+  3.1 Connect colab to google drive with clicking on the link, displayed under the corresponding code block, copying the code into the input-field and finally pressing enter
+  3.2 If you do not have access to google drive, you can also upload "training_data_fine_tuning.json" directly to colab. In this case you haave to change data_dir variable to ""
 4. Open our website under: "https://crypto-answer-il2.anvil.app/"
-5. Type in any question about cryptocurrency and click "ASK"
+5. Type in any question about cryptocurrency and click "ASK" or update to real time data by clicking "UPDATE CURRENT DATA"
 
-**Using our website requires having the colab notebook connected to it at all times**. If no notebook is connected an error will appear. It is also not possible to have two notebooks connected to the server at one time.
+**Using our website requires having the colab notebook connected to it at all times**. If no notebook is connected an error will appear. It is also not possible to have two notebooks connected to the website at one time.
 
 
 ## Tools ##
