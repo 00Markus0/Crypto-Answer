@@ -1,8 +1,6 @@
 # Crypto-Answer
-
-## Website ##
-
-<img src="docs/images/crypto_answer-website.jpeg">
+ 
+Crypto-Answer is a Question-Answering (QA) system for cryptocurrency.
 
 ## Using our system: ##
 
@@ -14,8 +12,11 @@
 4. Open our website under: "https://crypto-answer-il2.anvil.app/"
 5. Type in any question about cryptocurrency and click "ASK" or update to real time data by clicking "UPDATE CURRENT DATA"
 
-**Using our website requires having the colab notebook connected to it at all times**. If no notebook is connected an error will appear. It is also not possible to have two notebooks connected to the website at one time.
+**Using our website requires having the colab notebook connected at all times**. If no notebook is connected an error will appear. It is also not possible to have two notebooks connected to the website at one time.
 
+## Website ##
+
+<img src="docs/images/crypto_answer-website.jpeg">
 
 ## Tools ##
 
