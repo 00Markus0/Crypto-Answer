@@ -1,5 +1,9 @@
 # Crypto-Answer
 
+## Website ##
+
+<img src="docs/images/crypto_answer-website.jpeg">
+
 ## Using our system: ##
 
 1. Upload "training_data_fine_tuning.json" to [Google Drive](http://drive.google.com/). Make sure it is in the right folder. The folder structure is as following: "Colab Notebooks/Crypto-Answer/data/squad20/".

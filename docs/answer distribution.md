@@ -1,0 +1,989 @@
+Fine-tuned reader: 
+System 1 - Dense Retriever: 
+ 
+Question 	result 
+index 	answer 
+1 	1 	Bitcoin price today is $51,780.10 USD 
+2 	 	- 
+3 	1 	The project was released in 2009 
+4 	1 	Satoshi Nakamoto is the name used by the presumed pseudonymous[1][2][3][4] person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation 
+5 	1 	Bitcoin 
+6 	1 	circulating supply of 18,808,031 BTC coins 
+7 	1 	The proof-of-stake is a method of securing a cryptocurrency network and achieving distributed consensus through requesting users to show ownership of a certain amount of currency. 
+8 	- 	- 
+9 	1 	Proof of work (PoW) is a form of cryptographic zero-knowledge proof in which one party (the prover) proves to others (the verifiers) that a certain amount of a specific computational effort has been expended 
+10 	1 	The blockchain was invented by a person (or group of people) using the name Satoshi Nakamoto 
+11 	1 	As blocks each contain information about the block previous to it, they form a chain, with each additional block reinforcing the ones before it. Therefore, blockchains are resistant to modification of their data because once recorded, the data in any given block cannot be altered retroactively without altering all subsequent blocks. Blockchains are typically managed by a peer-to-peer network for use as a publicly distributed ledger, where nodes collectively adhere to a protocol to communicate and validate new blocks. 
+12 	1 	An increase in cryptocurrency mining increased the demand for graphics cards (GPU) in 2017. [51] (The computing power of GPUs makes them well-suited to generating hashes.) Popular favorites of cryptocurrency miners such as Nvidia's GTX 1060 
+
+		and GTX 1070 graphics cards, as well as AMD's RX 570 and RX 580 GPUs, doubled or tripled in price 
+13 	1 	A cryptocurrency wallet is a device,[1] physical medium,[2] program or a service which stores the public and/or private keys[3] for cryptocurrency transactions 
+14 	2 	crypto wallets are focused on the exchange, purchase, sale of digital assets[9] and support narrowly targeted applications 
+15 	1 	Decentralization or decentralisation is the process by which the activities of an organization, particularly those regarding planning and decision making, are distributed or delegated away from a central, authoritative location or group 
+16 	1 	The most popular blockchain for running smart contracts is Ethereum. 
+17 	1 	Issues in Ethereum smart contracts, in particular, include ambiguities and easy-but-insecure constructs in its contract language Solidity, compiler bugs, Ethereum Virtual Machine bugs, attacks on the blockchain network, the immutability of bugs and that there is no central source documenting known vulnerabilities, attacks and problematic constructs 
+18 	 	- 
+19 	 	- 
+20 	1 	Blockchain based networks are designed to support decentralization by way of a cryptographic distributed tripleentry accounting ledger 
+21 	1 	Tether (USDT) 
+22 	 	- 
+23 	 	- 
+24 	1 	the top exchanges for trading in Dogecoin are currently Binance, OKEx, FTX, CoinTiger, and Huobi Global. You can 
+find others listed on our crypto exchanges page 
+25 	1 	It was founded in 2017 
+26 	 	- 
+27 	1 	Stellar is an open-source, decentralized payment protocol that allows for fast, cross-border transactions between any pair of currencies 
+28 	1 	An NFT is a unit of data stored on a digital ledger, called a blockchain, which can be sold and traded 
+
+29 	2 	The lumen (pl. lumens, also XLM) is the native asset of Stellar. It is the cryptocurrency that powers the Stellar network and decentralized exchange 
+30 	1 	Blockchain based networks are designed to support decentralization by way of a cryptographic distributed tripleentry accounting ledger, typically with "layers" where each layer is defined by an interoperable open protocol on top of which network participants can transact and build products or services without requiring permission from central authorities. Bitcoin is the original implementation of a blockchain where proof-of-work is used as a means of establishing decentralized consensus (aka. Nakamoto consensus), thus enabling the uniqueness of its intrinsic digital asset and utility as a scarce cryptocurrency 
+31 	1 	the top exchanges for trading in Bitcoin are currently Binance, OKEx, FTX, CoinTiger, and Huobi Global 
+32 	1 	The distributed ledger database is spread across several nodes (devices) on a peer-to-peer network, where each replicates and saves an identical copy of the ledger and updates itself independently. 
+33 	 	- 
+34 	 	- 
+35 	1 	Within a proof-of-work cryptocurrency system such as Bitcoin, the safety, integrity and balance of ledgers is maintained by a community of mutually distrustful parties referred to as miners: who use their computers to help validate and timestamp transactions, adding them to the ledger in accordance with a particular timestamping scheme 
+36 	1 	Bitcoin was a pioneer in the blockchain revolution by 
+establishing a public, permissionless, distributed ledger system to validate, store, and replicate transaction data on computers all over the world. Ethereum expands these concepts by harnessing that same block chain capability for computer code. 
+37 	 	- 
+38 	 	- 
+39 	1 	Ethereum is a distributed public blockchain network that focuses on running the programming code of any decentralized application. More simply, it is a platform for sharing information across the globe that cannot be manipulated or changed. How is it different than bitcoin? Bitcoin was a pioneer in the blockchain revolution by establishing a public, permissionless, distributed ledger system to validate, store, and replicate transaction data on computers all over the world. Ethereum 
+
+		expands these concepts by harnessing that same block chain capability for computer code. While Bitcoin offers one particular application of block chain technology, a peer-to-peer electronic cash system, Ethereum allows for scripts of code to be run as a global computational network. This concept has a wide range of potential applications such as voting, global supply chains, medical records, the financial system -- the opportunities are endless. Ether is a decentralized digital currency, also known as ETH 
+40 	1 	24-hour trading volume of $4,306,641,025 USD 
+41 	 	- 
+42 	3 	It has a circulating supply of 18,808,031 BTC coins 
+43 	1 	max. supply of 21,000,000 BTC coins 
+44 	2 	Bitcoin is up 3.29% in the last 24 hours 
+45 	2 	Dominance:  BTC: 41.4% ETH: 19.8%ETH Gas:  87 Gwei 
+Please wait, we are loading chart data 
+The live Bitcoin price today is $51,780.10 USD with a 24-hour trading volume of $33,118,400,590 USD. We update our BTC to USD price in real-time. Bitcoin is up 3.29% in the last 24 hours. The current CoinMarketCap ranking is #1, with a live market cap of $973,881,789,980 USD. 
+46 	1 	Ethereum is up 1.02% 
+47 	 	- 
+48 	1 	Bitcoin is a decentralized cryptocurrency 
+49 	1 	Bitcoin’s existence began with an academic paper written in 2008 by a developer under the name of Satoshi Nakamoto 
+50 	1 	A smart contract is a computer program or a transaction protocol which is intended to automatically execute, control or document legally relevant events and actions according to the terms of a contract or an agreement. [1][2][3][4] The objectives of smart contracts are the reduction of need in trusted intermediators, arbitrations and enforcement costs, fraud losses, as well as the reduction of malicious and accidental exceptions. [5][2] 
+Vending machines are mentioned as the oldest piece of technology equivalent to smart contract implementation. [3] 2014's white paper about the cryptocurrency Ethereum[6] describes the Bitcoin protocol as a weak version of the smart contract concept as defined by computer scientist, lawyer and cryptographer Nick Szabo. Since Ethereum, various cryptocurrencies support scripting languages which allow for more advanced smart contracts between untrusted parties. 
+
+51 	1 	A full node is when you download the entire blockchain using a bitcoin client 
+52 	2 	Bitcoins are "mined" using the Hashcash proof-of-work function by individual miners and verified by the decentralized nodes in the P2P bitcoin network 
+53 	1 	The fee for sending ether is static (you can view the fee for sending ether by clicking “Send” and selecting Ether as the currency), 
+54 	1 	An ERC20 token is a blockchain-based asset with similar functionality to bitcoin, ether, and bitcoin cash: it can hold value and be sent and received. The major difference between ERC20 tokens and other cryptocurrencies is that ERC20 tokens are created and hosted on the Ethereum blockchain, whereas bitcoin and bitcoin cash are the native currencies of their respective blockchains. ERC20 tokens are stored and sent using ethereum addresses and transactions, and use gas to cover transaction fees. ERC20 is an official protocol for proposing improvements to the Ethereum (ETH) network. ERC stands for Ethereum Request for Comment, and 20 is the proposal identifier. 
+55 	 	- 
+56 	2 	All Stellar addresses are required to keep a minimum balance of XLM at all times. The current minimum is 1 XLM, which is set by the Stellar network. The minimum balance requirement is in place in order to prevent people from overwhelming the network and to aid in prioritization 
+57 	 	- 
+58 	 	- 
+59 	 	- 
+60 	1 	Cryptocurrencies are used primarily outside existing banking and governmental institutions and are exchanged over the Internet 
+61 	 	- 
+62 	 	- 
+63 	 	- 
+64 	1 	This energy consumption was found to cause large amounts of carbon emissions, interfering with contemporary inter-national climate change mitigation commitments. 
+65 	 	- 
+
+66 		- 
+67 	 	- 
+68 	1 	Cryptocurrency transactions are normally irreversible after a number of blocks confirm the transaction. Additionally, cryptocurrency private keys can be permanently lost from local storage due to malware, data loss or the destruction of the physical media. This precludes the cryptocurrency from being spent, resulting in its effective removal from the markets. [154] In September 2015, the establishment of the peer-reviewed academic journal Ledger (ISSN 2379-5980) was announced. 
+69 	1 	The bitcoin network is a peer-to-peer payment network that operates on a cryptographic protocol. Users send and receive bitcoins, the units of currency, by broadcasting digitally signed messages to the network using bitcoin cryptocurrency wallet software. Transactions are recorded into a distributed, replicated public database known as the blockchain, with consensus achieved by a proof-of-work system called mining. 
+70 	1 	Several news outlets have asserted that the popularity of bitcoins hinges on the ability to use them to purchase illegal goods 
+71 	 	- 
+72 	1 	the small fee included in your transaction goes to the miners, who help power the flow of transactions on the Ethereum network 
+73 	 	- 
+74 	1 	unauthorized spending, double spending, forging bitcoins, and tampering with the blockchain. Other attacks, such as theft of private keys, require due care by users. 
+75 	1 	Ethereum is a distributed public blockchain network that focuses on running the programming code of any decentralized application. More simply, it is a platform for sharing information across the globe that cannot be manipulated or changed. How is it different than bitcoin? Bitcoin was a pioneer in the blockchain revolution by establishing a public, permissionless, distributed ledger system to validate, store, and replicate transaction data on computers all over the world. Ethereum expands these concepts by harnessing that same block chain capability for computer code. While Bitcoin offers one particular application of block chain technology, a peer-to-peer electronic cash system, Ethereum allows for scripts of code to be run as a global computational network. This concept has a wide range of potential applications such as voting, global supply chains, medical records, the financial system -- the opportunities are 
+
+		endless. Ether is a decentralized digital currency, also known as ETH 
+76 	1 	the small fee included in your transaction goes to the miners, who help power the flow of transactions on the Ethereum network 
+77 	2 	While cryptocurrencies are digital currencies that are managed through advanced encryption techniques, many governments have taken a cautious approach toward them, fearing their lack of central control and the effects they could have on financial security 
+78 	1 	The exchanges can send cryptocurrency to a user's personal cryptocurrency wallet. Some can convert digital currency balances into anonymous prepaid cards which can be used to withdraw funds from ATMs worldwide 
+79 	 	- 
+80 	 	- 
+81 	1 	In the case of bitcoin and cryptocurrencies derived from it, the cryptocurrency is decentrally stored and maintained in a publicly available distributed ledger called the blockchain 
+82 	1 	max. supply of 45,000,000,000 ADA coins 
+83 	 	- 
+84 	 	- 
+85 	1 	In 2019, it was estimated that around $2.9 billion were invested in blockchain technology, which represents an 89% increase from the year prior. Additionally, the International Data Corp has estimated that corporate investment into blockchain technology will reach $12.4 billion 
+86 	3 	Governments have mixed policies on the legality of their citizens or banks owning cryptocurrencies. China implements blockchain technology in several industries including a national digital currency which launched in 2020. [73][74] In order to strengthen their respective currencies, Western governments including the European Union and the United States have initiated similar projects. [75] 
+Blockchain-based smart contracts are proposed contracts that can be partially or fully executed or enforced without human interaction. 
+87 	1 	Bitcoin, first released as open-source software in 2009, is the first decentralized cryptocurrency. [6] Since the release of bitcoin, many other cryptocurrencies have been created. 7.3 The legal concern of an unregulated global economy 
+
+		8.1 Speculation, fraud and adoption 
+In 1983, the American cryptographer David Chaum conceived an anonymous cryptographic electronic money called ecash. 
+88 	 	- 
+89 	2 	Namecoin is a cryptocurrency that supports the ".bit" top-level domain (TLD). 
+90 	1 	A blockchain game CryptoKitties 
+91 	 	- 
+92 	 	- 
+93 	2 	Peer-to-peer blockchain networks lack centralized points of vulnerability that computer crackers can exploit; likewise, it has no central point of failure. 
+94 	1 	While P2P systems had previously been used in many application domains,[3] the concept was popularized by file sharing systems such as the music-sharing application Napster 
+95 	1 	Node owners are either volunteers, those hosted by the organisation or body responsible for developing the cryptocurrency blockchain network technology or those that are enticed to host a node to receive rewards from hosting the node network 
+96 	1 	An increase in cryptocurrency mining increased the demand for graphics cards (GPU) in 2017. 
+97 	3 	Bitcoin, first released as open-source software in 2009, is the first decentralized cryptocurrency. [6] Since the release of bitcoin, many other cryptocurrencies have been created. 7.3 
+The legal concern of an unregulated global economy 
+8.1 Speculation, fraud and adoption 
+In 1983, the American cryptographer David Chaum conceived an anonymous cryptographic electronic money called ecash. [7][8] Later, in 1995, he implemented it through Digicash,[9] an early form of cryptographic electronic payments which required user software in order to withdraw notes from a bank and designate specific encrypted keys before it can be sent to a recipient. 
+98 	3 	On May 18, 2021, China banned financial institutions and payment companies from being able to provide cryptocurrency transaction related services 
+99 	1 	Decentralization of government programs is said to increase efficiency – and effectiveness – due to reduction of congestion in communications, quicker reaction to unanticipated problems, 
+		improved ability to deliver services, improved information about local conditions, and more support from beneficiaries of programs 
+100 	1 	The legal status of cryptocurrencies varies substantially from country to country and is still undefined or changing in many of them 
+ 
+System 2 - Sparse (ElasticSearch) Retriever: 
+ 
+Question 	result 
+index 	answer 
+1 	1 	The live Bitcoin price today is $51,265.59 USD 
+2 	 	- 
+3 	1 	The blockchain was invented by a person (or group of people) using the name Satoshi Nakamoto in 2008 
+4 	1 	Satoshi Nakamoto, the Creator of Bitcoin 
+5 	1 	In 2009, the first decentralized cryptocurrency, bitcoin 
+6 	1 	circulating supply of 18,808,268 BTC coins and a max. supply of 21,000,000 BTC coins 
+7 	1 	The proof-of-stake is a method of securing a cryptocurrency network and achieving distributed consensus through requesting users to show ownership of a certain amount of currency. It is different from proof-of-work systems that run difficult hashing algorithms to validate electronic transactions. The scheme is largely dependent on the coin, and there's currently no standard form of it. Some cryptocurrencies use a combined proof-of-work and proof-of-stake scheme. 
+8 	1 	BTC 
+9 	1 	Proof of work (PoW) is a form of cryptographic zero-knowledge proof in which one party (the prover) proves to others (the verifiers) that a certain amount of a specific computational effort has been expended 
+10 	1 	The blockchain was invented by a person (or group of people) using the name Satoshi Nakamoto 
+11 	2 	The work of validating transactions and adding them to the blockchain is done by miners, powerful computers that make up and connect to the network 
+
+12 	1 	An increase in cryptocurrency mining increased the demand for graphics cards (GPU) in 2017. [51] (The computing power of GPUs makes them well-suited to generating hashes.) Popular favorites of cryptocurrency miners such as Nvidia's GTX 1060 and GTX 1070 graphics cards, as well as AMD's RX 570 and 
+RX 580 GPUs, doubled or tripled in price 
+13 	2 	A deterministic wallet seed phrase of a crypto wallet. With a deterministic wallet a single key can be used to generate an entire tree of key pairs 
+14 	1 	While crypto wallets are focused on the exchange, purchase, sale of digital assets[ 
+15 	1 	Decentralization or decentralisation is the process by which the activities of an organization, particularly those regarding planning and decision making, are distributed or delegated away from a central, authoritative location or group. [ 
+16 	 	- 
+17 	1 	Issues in Ethereum smart contracts, in particular, include ambiguities and easy-but-insecure constructs in its contract language Solidity, compiler bugs, Ethereum Virtual Machine bugs, attacks on the blockchain network, the immutability of bugs and that there is no central source documenting known vulnerabilities, attacks and problematic constructs 
+18 	 	- 
+19 	1 	Ethereum is a distributed public blockchain network that focuses on running the programming code of any decentralized application. More simply, it is a platform for sharing information across the globe that cannot be manipulated or changed. How is it different than bitcoin? Bitcoin was a pioneer in the blockchain revolution by establishing a public, permissionless, distributed ledger system to validate, store, and replicate transaction data on computers all over the world. Ethereum expands these concepts by harnessing that same block chain capability for computer code. While Bitcoin offers one particular application of block chain technology, a peer-to-peer electronic cash system, Ethereum allows for scripts of code to be run as a global computational network. This concept has a wide range of potential applications such as voting, global supply chains, medical records, the financial system -- the opportunities are endless. 
+20 	2 	A sidechain is a designation for a blockchain ledger that runs in parallel to a primary blockchain 
+21 	1 	Tether (USDT) 
+
+22 		- 
+23 	 	- 
+24 	2 	top exchanges for trading in Dogecoin are currently Binance, OKEx, FTX, CoinTiger, and Huobi Global. You can find others listed on our crypto exchanges page 
+25 	1 	It was founded in 2017 
+26 	 	- 
+27 	1 	Stellar is an open-source, decentralized payment protocol that allows for fast, cross-border transactions between any pair of currencies 
+28 	1 	NFTs function like cryptographic tokens, 
+29 	1 	Its native asset, a digital currency, is called lumen (XLM). 
+30 	1 	Blockchain technologies show much potential as they provide capabilities that cannot normally be met in any other way if the requirement of interoperability between blockchains and with other technologies is met 
+31 	 	- 
+32 	1 	Distributed ledgers may be permissioned or permissionless. This determines if anyone or only approved people can run a node to validate transactions 
+33 	 	- 
+34 	 	- 
+35 	2 	Some miners pool resources, sharing their processing power over a network to split the reward equally, according to the amount of work they contributed to the probability of finding a block. 
+36 	1 	Bitcoin was a pioneer in the blockchain revolution by establishing a public, permissionless, distributed ledger system to validate, store, and replicate transaction data on computers all over the world. Ethereum expands these concepts by harnessing that same block chain capability for computer code. While Bitcoin offers one particular application of block chain technology, a peer-to-peer electronic cash system, Ethereum allows for scripts of code to be run as a global computational network. 
+37 	 	- 
+38 	1 	Monero was launched in 2014, and its goal is simple: to allow transactions to take place privately and with anonymity 
+
+39 	2 	Ether is a decentralized digital currency, also known as ETH 
+40 	2 	24-hour trading volume of $4,611,867,745 USD 
+41 	 	- 
+42 	1 	18,808,268 BTC coins 
+43 	 	- 
+44 	1 	Bitcoin is up 2.18% 
+45 	1 	BTC: 41.6% ETH: 19.8% 
+46 	 	- 
+47 	1 	Cryptocurrencies use various timestamping schemes to "prove" the validity of transactions added to the blockchain ledger without the need for a trusted third party. The first timestamping scheme invented was the proof-of-work scheme. The most widely used proof-of-work schemes are based on SHA-256 and scrypt. [16] 
+Some other hashing algorithms that are used for proof-of-work include CryptoNight, Blake, SHA-3, and X11 
+48 	 	- 
+49 	1 	In 2009, the first decentralized cryptocurrency, bitcoin, was created by presumably pseudonymous developer Satoshi Nakamoto 
+50 	1 	A smart contract is a computer program or a transaction protocol which is intended to automatically execute, control or document legally relevant events and actions according to the terms of a contract or an agreement. [1][2][3][4] The objectives of smart contracts are the reduction of need in trusted intermediators, arbitrations and enforcement costs, fraud losses, as well as the reduction of malicious and accidental exceptions. [5][2] 
+Vending machines are mentioned as the oldest piece of technology equivalent to smart contract implementation. [3] 2014's white paper about the cryptocurrency Ethereum[6] describes the Bitcoin protocol as a weak version of the smart contract concept as defined by computer scientist, lawyer and cryptographer Nick Szabo. 
+51 	1 	a node is a computer that connects to a cryptocurrency network 
+52 	1 	Bitcoin mining is the process of using computer hardware to do mathematical calculations for the Bitcoin network in order to confirm transactions. Miners collect transaction fees for the transactions they confirm and are awarded bitcoins for each block they verify. As part of bitcoin mining, mining “pools” are a 
+
+		network of miners that work together to mine a block, then split the block reward among the pool miners. 
+53 	1 	The fee for sending ether is static (you can view the fee for sending ether by clicking “Send” and selecting Ether as the currency), 
+54 	1 	An ERC20 token is a blockchain-based asset with similar functionality to bitcoin, ether, and bitcoin cash: it can hold value and be sent and received. The major difference between ERC20 tokens and other cryptocurrencies is that ERC20 tokens are created and hosted on the Ethereum blockchain, whereas bitcoin and bitcoin cash are the native currencies of their respective blockchains. ERC20 tokens are stored and sent using ethereum addresses and transactions, and use gas to cover transaction fees. ERC20 is an official protocol for proposing improvements to the Ethereum (ETH) network. ERC stands for Ethereum Request for Comment, and 20 is the proposal identifier. This is a common standard for creating tokens on the Ethereum blockchain. 
+55 	 	- 
+56 	1 	All Stellar addresses are required to keep a minimum balance of XLM at all times 
+57 	 	- 
+58 	 	- 
+59 	 	- 
+60 	 	- 
+61 	 	- 
+62 	 	- 
+63 	3 	bitcoin, Ethereum, litecoin and other cryptocurrencies. [48] A blockchain, if it is public, provides anyone who wants access to observe and analyse the chain data, given one has the knowhow. The process of understanding and accessing the flow of crypto has been an issue for many cryptocurrencies, cryptoexchanges and banks. 
+64 	2 	carbon emissions from Bitcoin mining in China – where a majority of the proof-of-work algorithm that generates current economic value is computed – have accelerated rapidly, are largely fueled by nonrenewable sources and would soon exceed total annual emissions of countries like Italy and Spain during 2016, interfering with international climate change mitigation commitments. [14][15] Avalon ASIC-based mining machine 
+
+		A rough overview of the process to mine bitcoins involves:[3] New transactions are broadcast to all nodes. 
+65 	 	- 
+66 	1 	Atomic swaps are a mechanism where one cryptocurrency can be exchanged directly for another cryptocurrency, without the need for a trusted third party such as an exchange 
+67 	 	- 
+68 	3 	In case of cryptocurrency the user needs to trust the provider to keep the cryptocurrency safe, just like with a bank 
+69 	 	- 
+70 	1 	As the popularity of and demand for online currencies has increased since the inception of bitcoin in 2009,[108] so have concerns that such an unregulated person to person global economy that cryptocurrencies offer may become a threat to society 
+71 	1 	users being willing to accept a cash system with an inflation rate of 230% before being better off using bitcoin as a means of payment 
+72 	1 	Miners are paid for their work validating transactions and adding blocks to the Ethereum blockchain in fractions of ether (ETH). 
+73 	3 	You only need to back up your wallet once; all of your subwallets are backed up by a single 12-word recovery phrase 
+74 	2 	Each block that is added to the blockchain, starting with the block containing a given transaction, is called a confirmation of that transaction. Ideally, merchants and services that receive payment in the cryptocurrency should wait for at least one confirmation to be distributed over the network, before assuming that the payment was done. The more confirmations that the merchant waits for, the more difficult it is for an attacker to successfully reverse the transaction in a blockchain—unless the attacker controls more than half the total network power, in which case it is called a 51% attack. [24] 
+Within the Bitcoin community there are groups working together in mining pools. [25] Some miners use application-specific integrated circuits (ASICs) for PoW. [26] This trend toward mining pools and specialized ASICs has made mining some cryptocurrencies economically infeasible for most players without access to the latest ASICs, nearby sources of inexpensive energy, or other special advantages. 
+75 	1 	Ethereum is a distributed public blockchain network that focuses on running the programming code of any decentralized 
+
+		application. More simply, it is a platform for sharing information across the globe that cannot be manipulated or changed. How is it different than bitcoin? Bitcoin was a pioneer in the blockchain revolution by establishing a public, permissionless, distributed ledger system to validate, store, and replicate transaction data on computers all over the world. Ethereum expands these concepts by harnessing that same block chain capability for computer code. While Bitcoin offers one particular application of block chain technology, a peer-to-peer electronic cash system, Ethereum allows for scripts of code to be run as a global computational network. This concept has a wide range of potential applications such as voting, global supply chains, medical records, the financial system -- the opportunities are endless. Ether is a decentralized digital currency, also known as ETH 
+76 	1 	the small fee included in your transaction goes to the miners, who help power the flow of transactions on the Ethereum network 
+77 	1 	As the popularity of and demand for online currencies has increased since the inception of bitcoin in 2009,[108] so have concerns that such an unregulated person to person global economy that cryptocurrencies offer may become a threat to society. Concerns abound that altcoins may become tools for anonymous web criminals 
+78 	1 	Some brokerages which also focus on other assets such as stocks, like Robinhood and eToro, let users purchase but not withdraw cryptocurrencies to cryptocurrency wallets 
+79 	 	- 
+80 	 	- 
+81 	2 	Your ether private key and funds are already stored in your 12word mnemonic phrase 
+82 	1 	max. supply of 45,000,000,000 ADA coins 
+83 	1 	In response to the 2020 COVID-19 pandemic, The Wall Street Journal reported that Ernst & Young was working on a blockchain to help employers, governments, airlines and others keep track of people who have had antibody tests and could be immune to the virus. 
+84 	 	- 
+85 	 	- 
+86 	1 	Banks preferably have a notable interest in utilizing Blockchain Technology because it is a great source to avoid fraudulent transactions 
+
+87 		- 
+88 	1 	In December 2018, Bitwala launched Europe's first regulated blockchain banking solution that enables users to manage both their bitcoin and euro deposits in one place with the safety and convenience of a German bank account 
+89 	1 	Tokens, cryptocurrencies, and other types of digital assets that are not bitcoin 
+90 	1 	A blockchain game CryptoKitties 
+91 	2 	Altcoins often have underlying differences with bitcoin. For example, Litecoin aims to process a block every 2.5 minutes, rather than bitcoin's 10 minutes, which allows Litecoin to confirm transactions faster than bitcoin. [27] Another example is Ethereum, which has smart contract functionality that allows decentralized applications to be run on its blockchain. 
+92 	1 	Units of) fungible tokens are sometimes referred to as crypto tokens (or cryptotokens). These terms are usually reserved for other fungible tokens than the main cryptocurrency of the blockchain, that is, usually, for fungible tokens issued within a smart contract running on top of a blockchain such as Ethereum 
+93 	1 	Peer-to-peer blockchain networks lack centralized points of vulnerability that computer crackers can exploit; likewise, it has no central point of failure 
+94 	2 	The decentralized nature of P2P networks increases robustness because it removes the single point of failure that can be inherent in a client–server based system. [41] As nodes arrive and demand on the system increases, the total capacity of the system also increases, and the likelihood of failure decreases. If one peer on the network fails to function properly, the whole network is not compromised or damaged. In contrast, in a typical client–server architecture, clients share only their demands with the system, but not their resources. 
+95 	1 	a node is a computer that connects to a cryptocurrency network 
+96 	1 	An increase in cryptocurrency mining increased the demand for graphics cards (GPU) in 2017. 
+97 	 	- 
+98 	1 	China and Korea remain hostile, with China banning bitcoin miners and freezing bank accounts. [28][29] While Australia is yet to announce its conclusive regulations on cryptocurrency, it does require its citizens to disclose their digital assets for capital gains tax. 
+99 	1 	Decentralization of government programs is said to increase efficiency – and effectiveness – due to reduction of congestion in communications, quicker reaction to unanticipated problems, improved ability to deliver services, improved information about local conditions, and more support from beneficiaries of programs 
+100 	2 	The legal status of cryptocurrencies varies substantially from country to country and is still undefined or changing in many of them 
+ 
+ 
+ 
+ 
+System 3 - Multiple Retriever: Combined DPR and ElasticSearch Retriever: 
+ 
+Question 	result 
+index 	answer 
+1 	1 	Bitcoin price today is $51,629.06 USD 
+2 	2 	a cryptocurrency is a system that meets six conditions:[19] The system does not require a central authority; its state is maintained through distributed consensus. The system keeps an overview of cryptocurrency units and their ownership. The system defines whether new cryptocurrency units can be created. If new cryptocurrency units can be created, the system defines the circumstances of their origin and how to determine the ownership of these new units. Ownership of cryptocurrency units can be proved exclusively cryptographically. 
+3 	1 	coding of bitcoin began in 2007. The project was released in 2009 as open source software. The network requires minimal structure to share transactions. An ad hoc decentralized network of volunteers is sufficient. 
+4 	1 	Satoshi Nakamoto is the name used by the presumed pseudonymous[1][2][3][4] person or persons who developed bitcoin, authored the bitcoin white paper, and created and deployed bitcoin's original reference implementation 
+5 	1 	
+the first decentralized cryptocurrency, bitcoin 
+
+6 	1 	It has a circulating supply of 18,808,268 BTC coins 
+7 	1 	
+Proof of stake (PoS) protocols are a class of consensus	 
+mechanisms for blockchains that work by selecting validators in 
+
+
+		
+proportion to their quantity of holdings in the associated 
+cryptocurrency	 
+
+8 	 	- 
+9 	1 	Proof of work, another commonly used consensus mechanism, uses a validation of computational prowess to verify transactions, requiring a potential attacker to acquire a large fraction of the computational power of the validator network 
+10 	1 	
+The blockchain was invented by a person (or group of people) 
+using the name Satoshi Nakamoto	 
+
+11 	1 	The work of validating transactions and adding them to the blockchain is done by miners, powerful computers that make up and connect to the network 
+12 	2 	
+An increase in cryptocurrency mining increased the demand for 
+graphics cards (GPU) in 2017	 
+
+13 	1 	
+A cryptocurrency wallet is a device,[1] physical medium,[2] 
+program or a service which stores the public and/or private 
+keys[3] for cryptocurrency transactions	 
+
+14 	3 	A cryptocurrency wallet stores the public and private "keys" (address) or seed which can be used to receive or spend the cryptocurrency 
+15 	1 	
+Decentralization or decentralisation is the process by which the 
+activities of an organization, particularly those regarding	 
+planning and decision making, are distributed or delegated	 
+away from a central, authoritative location or group	 	
+
+16 	2 	
+The most popular blockchain for running smart contracts is 
+Ethereum	 
+
+17 	1 	Issues in Ethereum smart contracts, in particular, include ambiguities and easy-but-insecure constructs in its contract language Solidity, compiler bugs, Ethereum Virtual Machine bugs, attacks on the blockchain network, the immutability of bugs and that there is no central source documenting known vulnerabilities, attacks and problematic constructs 
+18 	 	- 
+19 	1 	Ethereum is a distributed public blockchain network that focuses on running the programming code of any decentralized application. More simply, it is a platform for sharing information across the globe that cannot be manipulated or changed. How is it different than bitcoin? Bitcoin was a pioneer in the blockchain revolution by establishing a public, permissionless, distributed ledger system to validate, store, and replicate transaction data on computers all over the world. Ethereum 
+
+		expands these concepts by harnessing that same block chain capability for computer code. While Bitcoin offers one particular application of block chain technology, a peer-to-peer electronic cash system, Ethereum allows for scripts of code to be run as a global computational network. This concept has a wide range of potential applications such as voting, global supply chains, medical records, the financial system -- the opportunities are endless. 
+20 	1 	Blockchain based networks are designed to support decentralization by way of a cryptographic distributed tripleentry accounting ledger 
+21 	1 	Tether (USDT) 
+22 	 	- 
+23 	 	- 
+24 	1 	the top exchanges for trading in Dogecoin are currently Binance, OKEx, FTX, CoinTiger, and Huobi Global. You can 
+find others listed on our crypto exchanges page 
+25 	2 	It was founded in 2017 
+26 	 	- 
+27 	1 	Stellar is an open-source, decentralized payment protocol that allows for fast, cross-border transactions between any pair of currencies 
+28 	1 	A non-fungible token (NFT) is a unit of data stored on a digital ledger, called a blockchain, that certifies a digital asset to be unique and therefore not interchangeable 
+29 	1 	Its native asset, a digital currency, is called lumen (XLM). 
+30 	1 	Currently, there are at least four types of blockchain networks — public blockchains, private blockchains, consortium blockchains and hybrid blockchains. A public blockchain has absolutely no access restrictions. Anyone with an Internet connection can send transactions to it as well as become a validator (i.e., participate in the execution of a consensus protocol). 
+31 	1 	If you would like to know where to buy Bitcoin, the top exchanges for trading in Bitcoin are currently Binance, OKEx, FTX, CoinTiger, and Huobi Global 
+32 	1 	
+The distributed ledger database is spread across several nodes 
+(devices) on a peer-to-peer network, where each replicates and 
+saves an identical copy of the ledger and updates itself	 
+independently.	 	
+
+
+33 		- 
+34 	 	- 
+35 	2 	Within a proof-of-work cryptocurrency system such as Bitcoin, the safety, integrity and balance of ledgers is maintained by a community of mutually distrustful parties referred to as miners: who use their computers to help validate and timestamp transactions, adding them to the ledger in accordance with a particular timestamping scheme 
+36 	1 	Ethereum is a distributed public blockchain network that focuses on running the programming code of any decentralized application. More simply, it is a platform for sharing information across the globe that cannot be manipulated or changed. How is it different than bitcoin? Bitcoin was a pioneer in the blockchain revolution by establishing a public, permissionless, distributed ledger system to validate, store, and replicate transaction data on computers all over the world. Ethereum expands these concepts by harnessing that same block chain capability for computer code. 
+37 	3 	Bitcoin is the least energy-efficient cryptocurrency, using 707.6 kilowatt-hours of electricity per transaction. [149] In comparison, the world's second-largest cryptocurrency, Ethereum, uses 
+62.56 kilowatt-hours of electricity per transaction 
+38 	2 	
+Monero was launched in 2014, and its goal is simple: to allow 
+transactions to take place privately and with anonymity	 
+
+39 	 	- 
+40 	1 	24-hour trading volume of $4,611,748,793 USD 
+41 	 	- 
+42 	1 	circulating supply of 18,808,268 BTC coins 
+43 	1 	max. supply of 21,000,000 BCH coins 
+44 	1 	Bitcoin is up 2.35% in the last 24 hours 
+45 	1 	Dominance:  BTC: 41.6% 
+46 	1 	Ethereum is down 1.07% in the last 24 hours 
+47 	1 	Cryptocurrencies use various timestamping schemes to "prove" the validity of transactions added to the blockchain ledger without the need for a trusted third party. The first timestamping scheme invented was the proof-of-work scheme. The most widely used proof-of-work schemes are based on SHA-256 and scrypt. [16] 
+
+		Some other hashing algorithms that are used for proof-of-work include CryptoNight, Blake, SHA-3, and X11. The proof-of-stake is a method of securing a cryptocurrency network and achieving distributed consensus through requesting users to show ownership of a certain amount of currency. It is different from proof-of-work systems that run difficult hashing algorithms to validate electronic transactions. 
+48 	1 	Bitcoin is a decentralized cryptocurrency 
+49 	1 	In 2009, the first decentralized cryptocurrency, bitcoin, was created by presumably pseudonymous developer Satoshi Nakamoto 
+50 	1 	A smart contract is a computer program or a transaction protocol which is intended to automatically execute, control or document legally relevant events and actions according to the terms of a contract or an agreement 
+51 	1 	a node is a computer that connects to a cryptocurrency network 
+52 	1 	
+Bitcoin mining is the process of using computer hardware to do 
+mathematical calculations for the Bitcoin network in order to	 
+confirm transactions.	 	
+
+53 	1 	
+The fee for sending ether is static (you can view the fee for 
+sending ether by clicking “Send” and selecting Ether as the 
+currency),	 
+
+54 	1 	An ERC20 token is a blockchain-based asset with similar functionality to bitcoin, ether, and bitcoin cash: it can hold value and be sent and received. The major difference between ERC20 tokens and other cryptocurrencies is that ERC20 tokens are created and hosted on the Ethereum blockchain, whereas bitcoin and bitcoin cash are the native currencies of their respective blockchains. ERC20 tokens are stored and sent using ethereum addresses and transactions, and use gas to cover transaction fees. ERC20 is an official protocol for proposing improvements to the Ethereum (ETH) network. ERC stands for Ethereum Request for Comment, and 20 is the proposal identifier. This is a common standard for creating tokens on the Ethereum blockchain. 
+55 	 	- 
+56 	1 	All Stellar addresses are required to keep a minimum balance of XLM at all times. The current minimum is 1 XLM, which is set by the Stellar network. The minimum balance requirement is in place in order to prevent people from overwhelming the network and to aid in prioritization 
+
+57 	3 	When Bitcoin Cash (BCH) was created, it shared the same address format as bitcoin. In an effort to alleviate any confusion for users of both digital currencies, BCH developers later proposed a new unique format for BCH addresses called CashAddr. This new address format will help users more easily distinguish between bitcoin and BCH addresses. The updated format only changes how BCH addresses are displayed, not the underlying private and public keys. 
+58 	 	- 
+59 	 	- 
+60 	1 	Bitcoin is pseudonymous rather than anonymous in that the cryptocurrency within a wallet is not tied to people, but rather to one or more specific keys (or "addresses"). [57] Thereby, bitcoin owners are not identifiable, but all transactions are publicly available in the blockchain. Still, cryptocurrency exchanges are often required by law to collect the personal information of their users. [citation needed] 
+Additions such as Monero, Zerocoin, Zerocash and CryptoNote have been suggested, which would allow for additional 
+anonymity and fungibility. [58][59] 
+Cryptocurrencies are used primarily outside existing banking and governmental institutions and are exchanged over the Internet. 
+61 	 	- 
+62 	 	- 
+63 	 	- 
+64 	2 	This energy consumption was found to cause large amounts of carbon emissions, interfering with contemporary inter-national 
+climate change mitigation commitments 
+65 	1 	In cryptocurrency networks, mining is a validation of transactions. For this effort, successful miners obtain new cryptocurrency as a reward 
+66 	1 	Atomic swaps are a mechanism where one cryptocurrency can be exchanged directly for another cryptocurrency, without the need for a trusted third party such as an exchange 
+67 	 	- 
+68 	1 	Darknet markets present challenges in regard to legality. Cryptocurrency used in dark markets are not clearly or legally classified in almost all parts of the world. In the U.S., bitcoins are labelled as "virtual assets". 
+
+69 	2 	A blockchain is a growing list of records, called blocks, that are linked together using cryptography. [1][2][3][4] Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data (generally represented as a Merkle tree). The timestamp proves that the transaction data existed when the block was published in order to get into its hash. As blocks each contain information about the block previous to it, they form a chain, with each additional block reinforcing the ones before it. Therefore, blockchains are resistant to modification of their data because once recorded, the data in any given block cannot be altered retroactively without altering all subsequent blocks. Blockchains are typically managed by a peer-to-peer network for use as a publicly distributed ledger, where nodes collectively adhere to a protocol to communicate and validate new blocks. Although blockchain records are not unalterable as forks are possible, blockchains 
+may be considered secure by design and exemplify a distributed computing system with high Byzantine fault tolerance. 
+70 	1 	Several news outlets have asserted that the popularity of bitcoins hinges on the ability to use them to purchase illegal goods 
+71 	1 	
+In countries with high inflation where fiat currency is no longer 
+available to easily utilise to survive, many have turned to	 
+cryptocurrency working through online job boards to bypass	 
+strict regulations and achieve economic freedom	 	
+
+72 	1 	
+Miners are paid for their work validating transactions and adding 
+blocks to the Ethereum blockchain in fractions of ether (ETH).	 
+
+73 	1 	
+If you’ve written down and stored your wallet’s backup phrase, 
+you’re good to go!	 
+
+74 	1 	As the popularity of and demand for online currencies has increased since the inception of bitcoin in 2009,[108] so have concerns that such an unregulated person to person global economy that cryptocurrencies offer may become a threat to society. Concerns abound that altcoins may become tools for anonymous web criminals 
+75 	1 	ETH 
+76 	1 	
+the small fee included in your transaction goes to the miners, 
+who help power the flow of transactions on the Ethereum	 
+network	 	
+
+77 	1 	As the popularity of and demand for online currencies has increased since the inception of bitcoin in 2009,[108] so have concerns that such an unregulated person to person global economy that cryptocurrencies offer may become a threat to 
+
+		
+society. Concerns abound that altcoins may become tools for 
+anonymous web criminals	 
+
+78 	2 	Dedicated cryptocurrency exchanges such as Binance and Coinbase do allow cryptocurrency withdrawals, however. The exchanges can send cryptocurrency to a user's personal cryptocurrency wallet. Some can convert digital currency balances into anonymous prepaid cards which can be used to withdraw funds from ATMs worldwide 
+79 	3 	
+Dedicated cryptocurrency exchanges such as Binance and 
+Coinbase	 
+
+80 	1 	An actual bitcoin transaction from a web based cryptocurrency exchange to a hardware cryptocurrency wallet. A simple cryptocurrency wallet contains pairs of public and private cryptographic keys. The keys can be used to track ownership, receive or spend cryptocurrencies. [11] A public key allows others to make payments to the address derived from it, whereas a private key enables the spending of cryptocurrency from that address. [12] 
+The cryptocurrency itself is not in the wallet. In the case of bitcoin and cryptocurrencies derived from it, the cryptocurrency is decentrally stored and maintained in a publicly available distributed ledger called the blockchain 
+81 	1 	In the case of bitcoin and cryptocurrencies derived from it, the cryptocurrency is decentrally stored and maintained in a publicly available distributed ledger called the blockchain 
+82 	1 	max. supply of 45,000,000,000 ADA coins 
+83 	1 	In response to the 2020 COVID-19 pandemic, The Wall Street Journal reported that Ernst & Young was working on a blockchain to help employers, governments, airlines and others keep track of people who have had antibody tests and could be immune to the virus 
+84 	 	- 
+85 	1 	In 2019, it was estimated that around $2.9 billion 
+86 	2 	
+According to Reason, many banks have expressed interest in 
+implementing distributed ledgers for use in banking	 
+
+87 	3 	In 1983, the American cryptographer David Chaum conceived an anonymous cryptographic electronic money called ecash. [7][8] Later, in 1995, he implemented it through Digicash,[9] an early form of cryptographic electronic payments which required user software in order to withdraw notes from a bank and designate specific encrypted keys before it can be sent to a 
+
+		
+recipient. This allowed the digital currency to be untraceable by 
+the issuing bank, the government, or any third party.	 
+
+88 	1 	In December 2018, Bitwala launched Europe's first regulated blockchain banking solution that enables users to manage both their bitcoin and euro deposits in one place with the safety and convenience of a German bank account 
+89 	1 	
+Tokens, cryptocurrencies, and other types of digital assets that 
+are not bitcoin	 
+
+90 	1 	
+A blockchain game CryptoKitties 
+
+91 	1 	Altcoins often have underlying differences with bitcoin. For example, Litecoin aims to process a block every 2.5 minutes, rather than bitcoin's 10 minutes, which allows Litecoin to confirm transactions faster than bitcoin 
+92 	1 	
+Units of) fungible tokens are sometimes referred to as crypto 
+tokens (or cryptotokens)	 
+
+93 	1 	
+Blockchains are typically managed by a peer-to-peer network 
+for use as a publicly distributed ledger	 
+
+94 	1 	
+While P2P systems had previously been used in many	 
+application domains,[3] the concept was popularized by file	 
+sharing systems such as the music-sharing application Napster
+
+95 	1 	a node is a computer that connects to a cryptocurrency network 
+96 	1 	
+An increase in cryptocurrency mining increased the demand for 
+graphics cards (GPU) in 2017	 
+
+97 	 	- 
+98 	1 	
+China and Korea remain hostile, with China banning bitcoin 
+miners and freezing bank accounts	 
+
+99 	1 	Decentralization of government programs is said to increase efficiency – and effectiveness – due to reduction of congestion in communications, quicker reaction to unanticipated problems, improved ability to deliver services, improved information about local conditions, and more support from beneficiaries of programs 
+100 	2 	The legal status of cryptocurrencies varies substantially from country to country and is still undefined or changing in many of them. At least one study has shown that broad generalizations about the use of bitcoin in illicit finance are significantly overstated and that blockchain analysis is an effective crime fighting and intelligence gathering tool. [93] While some countries have explicitly allowed their use and trade,[94] others 
+		have banned or restricted it. According to the Library of Congress, an "absolute ban" on trading or using cryptocurrencies applies in eight countries: Algeria, Bolivia, Egypt, Iraq, Morocco, Nepal, Pakistan, and the United Arab Emirates. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Non-fine-tuned reader: 
+System 1 - Dense Retriever: 
+ 
+Question 	result 
+index 	answer 
+1 	1 	$46,186.49 USD 
+2 	3 	
+distributed ledger technology, typically a blockchain, that serves 
+as a public financial transaction database	 
+
+3 	1 	2009 
+4 	 	- 
+5 	1 	bitcoin 
+6 	1 	18,810,162 BTC coins 
+7 	1 	
+a method of securing a cryptocurrency network and achieving 
+distributed consensus through requesting users to show	 
+ownership of a certain amount of currency	 	
+
+8 	 	- 
+9 	 	- 
+10 	1 	Satoshi Nakamoto 
+11 	 	- 
+12 	 	- 
+13 	1 	
+a device,[1] physical medium,[2] program or a service which 
+stores the public and/or private keys[3] for cryptocurrency	 
+transactions	 	
+
+14 	2 	encrypting and/or signing information 
+15 	1 	the process by which the activities of an organization, particularly those regarding planning and decision making, are distributed or delegated away from a central, authoritative location or group 
+16 	1 	Ethereum Foundation[6] or IBM 
+17 	2 	Issues in Ethereum smart contracts, in particular, include ambiguities and easy-but-insecure constructs in its contract language Solidity 
+18 	1 	2014 
+
+19 		- 
+20 	1 	a cryptographic distributed triple-entry accounting ledger 
+21 	1 	USDT 
+22 	 	- 
+23 	 	- 
+24 	1 	the top exchanges for trading in Dogecoin are currently Binance, FTX, OKEx, Huobi Global, and CoinTiger. You can 
+find others listed on our crypto exchanges page 
+25 	1 	2017 
+26 	 	- 
+27 	1 	an open-source, decentralized payment protocol 
+28 	3 	A non-fungible token (NFT) is a unit of data stored on a digital ledger, called a blockchain, that certifies a digital asset to be unique and therefore not interchangeable. [1] NFTs can be used to represent items such as photos, videos, audio, and other types of digital files 
+29 	 	- 
+30 	 	- 
+31 	 	- 
+32 	 	- 
+33 	 	- 
+34 	 	- 
+35 	2 	use their computers to help validate and timestamp transactions, adding them to the ledger in accordance with a particular timestamping scheme 
+36 	 	- 
+37 	 	- 
+38 	1 	to allow transactions to take place privately and with anonymity 
+39 	 	- 
+40 	1 	$9,112,064,687 USD 
+41 	 	- 
+42 	1 	18,810,250 BTC coins 
+
+43 	1 	21,000,000 BTC coins 
+44 	1 	2.48% 
+45 	1 	41.9% 
+46 	1 	1.15% 
+47 	 	- 
+48 	1 	a decentralized cryptocurrency 
+49 	1 	Satoshi Nakamoto 
+50 	 	- 
+51 	3 	a node downloads and verifies new blocks from other nodes to complete its local copy of the blockchain 
+52 	2 	proof-of-work cryptocurrency that, like Finney's RPoW, is also based on the Hashcash PoW. But in Bitcoin, double-spend protection is provided by a decentralized P2P protocol for tracking transfers of coins, rather than the hardware trusted computing function used by RPoW. Bitcoin has better trustworthiness because it is protected by computation. Bitcoins are "mined" using the Hashcash proof-of-work function 
+53 	 	- 
+54 	1 	a blockchain-based asset 
+55 	 	- 
+56 	1 	All Stellar addresses are required to keep a minimum balance of XLM at all times. The current minimum is 1 XLM, which is set by the Stellar network. The minimum balance requirement is in place in order to prevent people from overwhelming the network and to aid in prioritization 
+57 	 	- 
+58 	 	- 
+59 	 	- 
+60 	 	- 
+61 	 	- 
+62 	 	- 
+63 	2 	bitcoin 
+64 	1 	large amounts of carbon emissions 
+
+65 		- 
+66 	 	- 
+67 	 	- 
+68 	3 	Modern hashing, chunk verification and different encryption methods have made most networks resistant to almost any type of attack 
+69 	 	- 
+70 	1 	ability to use them to purchase illegal goods 
+71 	1 	In countries with high inflation where fiat currency is no longer available to easily utilise to survive 
+72 	1 	fees 
+73 	 	- 
+74 	1 	unauthorized spending, double spending, forging bitcoins, and tampering with the blockchain 
+75 	1 	ETH 
+76 	 	- 
+77 	1 	lack of central control and the effects they could have on financial security 
+78 	1 	Dedicated cryptocurrency exchanges such as Binance and Coinbase do allow cryptocurrency withdrawals 
+79 	 	- 
+80 	 	- 
+81 	1 	personal cryptocurrency wallet 
+82 	1 	45,000,000,000 ADA coins 
+83 	 	- 
+84 	 	- 
+85 	1 	$2.9 billion 
+86 	 	- 
+87 	 	- 
+88 	 	- 
+89 	1 	Monero, Zerocoin, Zerocash and CryptoNote 
+90 	1 	CryptoKitties 
+91 	 	- 
+92 	 	- 
+93 	1 	Peer-to-peer blockchain networks lack centralized points of vulnerability that computer crackers can exploit; likewise, it has no central point of failure 
+94 	2 	file sharing system Napster 
+95 	 	- 
+96 	1 	An increase in cryptocurrency mining increased the demand for graphics cards (GPU) in 2017 
+97 	3 	Ethereum 
+98 	1 	China banned financial institutions and payment companies from being able to provide cryptocurrency transaction related services 
+99 	2 	reduction of congestion in communications, quicker reaction to unanticipated problems, improved ability to deliver services, improved information about local conditions, and more support from beneficiaries of programs. [41] 
+Firms may prefer decentralization because it ensures efficiency by making sure that managers closest to the local information make decisions and in a more timely fashion 
+100 	 	- 
+ 
+System 2 - Sparse (ElasticSearch) Retriever: 
+not fine-tuned 
+ 
+Question 	result 
+index 	answer 
+1 	1 	$46,214.06 USD 
+2 	1 	a system that meets six conditions 
+3 	1 	2008 
+4 	1 	the Creator of Bitcoin 
+5 	1 	bitcoin 
+6 	2 	18,810,250 BTC coins 
+
+7 	1 	
+a method of securing a cryptocurrency network and achieving 
+distributed consensus through requesting users to show	 
+ownership of a certain amount of currency	 	
+
+8 	3 	BTC 
+9 	 	- 
+10 	1 	Satoshi Nakamoto 
+11 	2 	proof-of-stake 
+12 	1 	increased the demand for graphics cards 
+13 	1 	A deterministic wallet seed phrase 
+14 	1 	exchange, purchase, sale of digital assets 
+15 	1 	the process by which the activities of an organization, particularly those regarding planning and decision making, are distributed or delegated away from a central, authoritative location or group 
+16 	 	- 
+17 	2 	Issues in Ethereum smart contracts, in particular, include ambiguities and easy-but-insecure constructs in its contract language Solidity 
+18 	 	- 
+19 	 	- 
+20 	 	- 
+21 	1 	USDT 
+22 	 	- 
+23 	 	- 
+24 	2 	the top exchanges for trading in Dogecoin are currently Binance, FTX, OKEx, Huobi Global, and CoinTiger. You can 
+find others listed on our crypto exchanges page 
+25 	1 	2017 
+26 	 	- 
+27 	1 	an open-source, decentralized payment protocol 
+28 	 	- 
+29 	 	- 
+
+30 		- 
+31 	1 	Blockchain.com Wallet 
+32 	1 	
+each node constructs the new transaction, and then the nodes 
+vote by consensus algorithm on which copy is correct	 
+
+33 	 	- 
+34 	 	- 
+35 	 	- 
+36 	1 	
+smart contract functionality that allows decentralized 
+applications to be run on its blockchain	 
+
+37 	 	- 
+38 	1 	anonymity and fungibility 
+39 	 	- 
+40 	1 	$66,756,529 USD 
+41 	 	- 
+42 	1 	18,810,250 BTC coins 
+43 	1 	21,000,000 BTC coins 
+44 	1 	1.85% 
+45 	1 	41.8% 
+46 	 	- 
+47 	 	- 
+48 	 	- 
+49 	1 	Satoshi Nakamoto 
+50 	1 	a computer program or a transaction protocol 
+51 	1 	a computer that connects to a cryptocurrency network 
+52 	1 	
+the process of using computer hardware to do mathematical 
+calculations for the Bitcoin network in order to confirm	 
+transactions	 	
+
+53 	2 	
+transaction fees differ by computational complexity, bandwidth 
+use, and storage needs	 
+
+54 	 	- 
+
+55 	1 	bitcoins 
+56 	1 	All Stellar addresses are required to keep a minimum balance of XLM at all times. The current minimum is 1 XLM, which is set by the Stellar network. The minimum balance requirement is in place in order to prevent people from overwhelming the network and to aid in prioritization 
+57 	 	- 
+58 	 	- 
+59 	 	- 
+
+60 	1 	users can send and receive, and use to carry out exchanges between other currencies 
+61 	 	- 
+62 	1 	bitcoins 
+63 	2 	bitcoin, Ethereum, litecoin 
+64 	1 	carbon emissions from Bitcoin mining in China – where a majority of the proof-of-work algorithm that generates current economic value is computed – have accelerated rapidly, are largely fueled by nonrenewable sources and would soon exceed total annual emissions of countries like Italy and Spain during 2016, interfering with international climate change mitigation commitments 
+65 	 	- 
+66 	1 	Atomic swaps 
+67 	 	- 
+68 	3 	
+the user needs to trust the provider to keep the cryptocurrency 
+safe	 
+
+69 	2 	native currencies of their respective blockchains 
+70 	1 	that business model has worked 
+71 	2 	
+In countries with high inflation where fiat currency is no longer 
+available to easily utilise to survive	 
+
+72 	2 	block rewards or transaction fees 
+73 	3 	If you’ve written down and stored your wallet’s backup phrase 
+
+74 	2 	data being held centrally. [3] The decentralized blockchain may use ad hoc message passing and distributed networking. One risk of a lack of a decentralization is a so-called "51% attack" 
+75 	1 	ETH 
+76 	2 	help make sure your transaction confirms more quickly 
+77 	1 	
+lack of central control and the effects they could have on 
+financial security	 
+
+78 	3 	
+Dedicated cryptocurrency exchanges such as Binance and 
+Coinbase do allow cryptocurrency withdrawals	 
+
+79 	1 	Binance, Huobi Global, Coinbase Exchange, BiONE, and ZT 
+80 	 	- 
+81 	2 	in your Wallet 
+82 	1 	45,000,000,000 ADA coins 
+83 	 	- 
+84 	2 	digital money for the modern world 
+85 	 	- 
+86 	2 	
+Banks are interested in this technology because it has potential 
+to speed up back office settlement systems	 
+
+87 	 	- 
+88 	1 	Bitwala launched Europe's first regulated blockchain banking solution that enables users to manage both their bitcoin and euro deposits in one place 
+89 	1 	
+Tokens, cryptocurrencies, and other types of digital assets that 
+are not bitcoin	 
+
+90 	1 	CryptoKitties 
+91 	 	- 
+92 	1 	Units of) fungible tokens 
+93 	 	- 
+94 	 	- 
+95 	1 	a computer that connects to a cryptocurrency network 
+96 	1 	
+An increase in cryptocurrency mining increased the demand for 
+graphics cards (GPU) in 2017	 
+
+97 	2 	
+bitcoin
+
+98 	1 	China banned financial institutions and payment companies from being able to provide cryptocurrency transaction related services 
+99 	1 	
+equity and development
+
+100 	 	- 
+ 
+ 
+System 3 - Multiple Retriever: Combined DPR and ElasticSearch not fine-tuned 
+ 
+Question 	result 
+index 	answer 
+1 	1 	
+$46,176.61 USD
+
+2 	1 	a system that meets six conditions 
+3 	1 	
+2009
+
+4 	2 	
+the Creator of Bitcoin
+
+5 	1 	
+bitcoin 
+
+6 	 	- 
+7 	2 	a method of securing a cryptocurrency network and achieving distributed consensus through requesting users to show ownership of a certain amount of currency 
+8 	 	- 
+9 	1 	
+uses a validation of computational prowess to verify 
+transactions	 
+
+10 	1 	
+Satoshi Nakamoto
+
+11 	1 	to add the score of new blocks onto old blocks 
+12 	1 	increased the demand for graphics cards 
+
+13 	1 	
+a device,[1] physical medium,[2] program or a service 
+which stores the public and/or private keys[3] for	 
+cryptocurrency transactions	 	
+
+14 	1 	exchange, purchase, sale of digital assets 
+15 	1 	the process by which the activities of an organization, particularly those regarding planning and decision making, are distributed or delegated away from a 
+central, authoritative location or group 
+16 	3 	
+Ethereum
+
+17 	1 	no viable smart contract systems have yet emerged." Due to the lack of widespread use their legal status was unclear 
+18 	 	- 
+19 	 	- 
+20 	 	- 
+21 	1 	
+USDT
+
+22 	 	- 
+23 	 	- 
+24 	 	- 
+25 	1 	
+2017 
+
+26 	 	- 
+27 	1 	an open-source, decentralized payment protocol 
+28 	3 	
+commodify digital assets in art, music, sports, and 
+other popular entertainment	 
+
+29 	3 	
+digital currency
+
+30 	 	- 
+31 	 	- 
+32 	1 	a consensus of replicated, shared, and synchronized digital data geographically spread across multiple sites, countries, or institutions 
+
+33 		- 
+34 	 	- 
+35 	3 	use their computers to help validate and timestamp transactions, adding them to the ledger in accordance with a particular timestamping scheme 
+36 	1 	
+transaction fees differ by computational complexity, 
+bandwidth use, and storage needs	 
+
+37 	1 	
+transaction fees differ by computational complexity, 
+bandwidth use, and storage needs	 
+
+38 	2 	
+to allow transactions to take place privately and with 
+anonymity	 
+
+39 	 	- 
+40 	3 	
+$9,101,504,585 USD
+
+41 	 	- 
+42 	1 	
+18,810,250 BTC coins
+
+43 	1 	
+21,000,000 BTC coins
+
+44 	1 	
+2.04%
+
+45 	1 	
+41.9%
+
+46 	1 	
+1.28%
+
+47 	 	- 
+48 	1 	a decentralized cryptocurrency 
+49 	1 	
+Satoshi Nakamoto
+
+50 	 	- 
+51 	1 	a computer that connects to a cryptocurrency network 
+52 	1 	the process of using computer hardware to do mathematical calculations for the Bitcoin network in order to confirm transactions 
+53 	2 	
+transaction fees differ by computational complexity, 
+bandwidth use, and storage needs	 
+
+54 	 	- 
+
+55 	1 	
+bitcoins
+
+56 	1 	All Stellar addresses are required to keep a minimum balance of XLM at all times. The current minimum is 1 XLM, which is set by the Stellar network. The minimum balance requirement is in place in order to prevent people from overwhelming the network and to aid in prioritization 
+57 	 	- 
+58 	 	- 
+59 	 	- 
+60 	1 	
+primarily outside existing banking and governmental 
+institutions	 
+
+61 	 	- 
+62 	1 	
+bitcoins
+
+63 	2 	
+bitcoin, Ethereum, litecoin
+
+64 	1 	large amounts of carbon emissions 
+65 	3 	
+allowed the digital currency to be untraceable by the 
+issuing bank, the government, or any third party	 
+
+66 	1 	
+Atomic swaps
+
+67 	 	- 
+68 	 	- 
+69 	1 	
+it serves as the public ledger for all transactions on the 
+network	 
+
+70 	1 	ability to use them to purchase illegal goods 
+71 	1 	
+In countries with high inflation where fiat currency is no 
+longer available to easily utilise to survive	 
+
+72 	1 	
+in fractions of ether
+
+73 	 	- 
+74 	 	- 
+75 	1 	
+ETH
+
+
+76 	1 	- 
+77 	 	
+lack of central control and the effects they could have 
+on financial security	 
+
+78 	3 	
+Some brokerages which also focus on other assets 
+such as stocks, like Robinhood and eToro, let users 
+purchase but not withdraw cryptocurrencies to	 
+cryptocurrency wallets	 	
+
+79 	2 	
+Binance, Huobi Global, Coinbase Exchange, BiONE, and 
+ZT	 
+
+80 	 	- 
+81 	1 	personal cryptocurrency wallet 
+82 	1 	
+45,000,000,000 ADA coins
+
+83 	 	- 
+84 	 	- 
+85 	1 	
+$2.9 billion
+
+86 	2 	Banks are interested in this technology because it has potential to speed up back office settlement systems 
+87 	 	- 
+88 	1 	
+Bitwala launched Europe's first regulated blockchain 
+banking solution that enables users to manage both
+their bitcoin and euro deposits in one place	 
+
+89 	1 	Monero, Zerocoin, Zerocash and CryptoNote 
+90 	1 	
+CryptoKitties 
+
+91 	 	- 
+92 	1 	
+Units of) fungible tokens
+
+93 	 	- 
+94 	2 	
+file sharing system Napster
+
+95 	1 	a computer that connects to a cryptocurrency network 
+96 	1 	
+An increase in cryptocurrency mining increased the 
+demand for graphics cards (GPU) in 2017	 
+
+97 		- 
+98 	1 	China banned financial institutions and payment companies from being able to provide cryptocurrency transaction related services 
+99 	2 	reduction of congestion in communications, quicker reaction to unanticipated problems, improved ability to deliver services, improved information about local conditions, and more support from beneficiaries of programs. [41] 
+Firms may prefer decentralization because it ensures efficiency by making sure that managers closest to the local information make decisions and in a more timely fashion 
+100 	1 	
+cryptocurrencies are legal
+
+ 
+ 
