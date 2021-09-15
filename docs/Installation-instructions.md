@@ -5,12 +5,12 @@
 1.  Download the repository as a Zip-file
 3.  extract the Zip-file
 4.  Please use Google Chrome to follow the next steps
-5.  upload the extracted Crypto-Answer-main folder into your Google drive into the folder Colab Notebooks:
+5.  upload the extracted Crypto-Answer-main folder into your Google Drive into the folder Colab Notebooks:
     
     My Drive -> Colab Notebooks -> Crypto-Answer-main
     
-5.  Open Google Colab with the Google drive account, where the Crypto-Answer-main folder is stored
-6.  To be able to open the notebook from Google Drive create a new Notebook. Click on:
+5.  Open Google Colab with the Google Drive account, where the Crypto-Answer-main folder is stored
+6.  To be able to open the notebook from Google Drive create a new notebook. Click on:
 
     File -> New notebook
     
@@ -18,7 +18,7 @@
 
     File -> Locate in Drive
     
-8.  Google drive will open in your browser
+8.  Google Drive will open in your browser
 9.  select: Colab notebooks -> Crypto-Answer-main
 10. double click on: Crypto-Answer.ipynb
 11. The notebook will open in Google Colab
