@@ -12,7 +12,7 @@ To create our website we used [Anvil](https://anvil.works/). It is **NOT** requi
 
 #### Installation ####
 
-To test our system Crypto-Answer please follow [these](./docs/Installation-instructions.md) instructions.
+To test our system Crypto-Answer please follow **[these](./docs/Installation-instructions.md)** instructions.
 
 
 ## Crypto-Answer Architecture ##
@@ -46,7 +46,7 @@ With the Ground truth we calculated the exact match values. An answer was classi
 
 For the [answer distribution](./docs/answer-distribution.md), the probands had to assess if the answers returned by our QA-system to their questions, satisfied their information need and at what rank.
 
-In total we calculated the exact match values, the answer distribution, the top-n-accuracy as well as the Mean reciprocal rank of our QA-systems paired with different settings for the reader and retriever. All metrics can be viewed [here](./docs/metrics.md).
+In total we calculated the exact match values, the answer distribution, the top-n-accuracy as well as the Mean reciprocal rank of our QA-systems paired with different settings for the reader and retriever. All metrics can be viewed **[here](./docs/metrics.md)**.
 
 ## Libraries ##
 
