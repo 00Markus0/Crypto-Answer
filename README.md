@@ -62,5 +62,5 @@ For our Question answering system a combination of libraries are required. All o
 - [Anvil Server](https://anvil.works/docs/uplink/quickstart)
 
 
-
-./docs/Crypto-Answer-installation.mp4
+Crypto-Answer-installation.mp4
+[Installation-video](./docs/Crypto-Answer-installation.mp4)
