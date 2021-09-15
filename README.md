@@ -1,9 +1,7 @@
 
-<img height="200px" src= "https://drive.google.com/uc?export=view&id=1eJvUUvSGun8bQWWQLz3r-fci09Qumnn5">
+<img height="180px" src= "https://drive.google.com/uc?export=view&id=1eJvUUvSGun8bQWWQLz3r-fci09Qumnn5">
 
 ## Install our system ##
-
-#### Tools ####
 
 All of the tools are free to use. 
 In order to use our app you need a google account. 
@@ -14,6 +12,12 @@ To create our website we used [Anvil](https://anvil.works/). It is **NOT** requi
 
 To test our system Crypto-Answer please follow **[these](./docs/Installation-instructions.md)** instructions.
 
+#### Instructions ####
+
+- Follow the [installation instructions](./docs/Installation-instructions.md) from before
+- Enable GPU runtime in your google colab notebook
+- Run all cells from top to bottom
+- Our [website](https://crypto-answer-il2.anvil.app/) can be used **only after all cells were executed**
 
 ## Crypto-Answer Architecture ##
 
@@ -48,9 +52,9 @@ For the [answer distribution](./docs/answer-distribution.md), the probands had t
 
 In total we calculated the exact match values, the answer distribution, the top-n-accuracy as well as the Mean reciprocal rank of our QA-systems paired with different settings for the reader and retriever. All metrics can be viewed **[here](./docs/metrics.md)**.
 
-## Libraries ##
+## Libraries & Tools ##
 
-For our Question answering system a combination of libraries are required. All of these libraries are free to use and are automatically downloaded and installed in the google colab notebook. Libraries include:
+For our Question answering system a combination of libraries are required. All of these libraries are free to use and neccessary ones are automatically downloaded and installed in the google colab notebook. Libraries and tools include:
 - [Haystack](https://github.com/deepset-ai/haystack/) with these tools:
   - [PreProcessor](https://haystack.deepset.ai/usage/preprocessing)
   - [DocumentStore](https://haystack.deepset.ai/usage/document-store)
@@ -59,4 +63,6 @@ For our Question answering system a combination of libraries are required. All o
   - [Pipeline](https://haystack.deepset.ai/usage/pipelines)
   - [Webcrawler](https://haystack.deepset.ai/usage/preprocessing)
 - [Huggingface](https://huggingface.co/deepset/roberta-base-squad2)
-- [Anvil Server](https://anvil.works/docs/uplink/quickstart)
+- [Annotation Tool](https://annotate.deepset.ai)
+- [Anvil](https://anvil.works/)
+  - [Anvil Server](https://anvil.works/docs/uplink/quickstart)
