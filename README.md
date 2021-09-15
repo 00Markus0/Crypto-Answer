@@ -60,3 +60,7 @@ For our Question answering system a combination of libraries are required. All o
   - [Webcrawler](https://haystack.deepset.ai/usage/preprocessing)
 - [Huggingface](https://huggingface.co/deepset/roberta-base-squad2)
 - [Anvil Server](https://anvil.works/docs/uplink/quickstart)
+
+
+
+./docs/Crypto-Answer-installation.mp4
