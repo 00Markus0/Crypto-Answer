@@ -16,7 +16,7 @@ To test our system Crypto-Answer please follow **[these](./docs/Installation-ins
 
 - Follow the [installation instructions](./docs/Installation-instructions.md) from before
 - Enable GPU runtime in your google colab notebook
-- Run all cells from top to bottom
+- Run all cells from top to bottom (**follow instructions at code cell 3 to mount to google drive** for fine-tuning)
 - Our [website](https://crypto-answer-il2.anvil.app/) can be used **only after all cells were executed**
 
 ## Crypto-Answer Architecture ##
