@@ -9,11 +9,11 @@ Additionally we used three different retriever in combination with the default a
 
 ### 1.  Answer distribution for the default and fine-tuned reader
 
-<img height="325" src="images/accuracy-default.png"> <img height="325" src="images/accuracy-fine-tuned.png">
+<img height="325" src="images/default-answer-distribution.png"> <img height="325" src="images/fine-tuned-answer-distribution.png">
 
 ### 2.  Top-n-accuracies for the default and fine-tuned reader
 
-<img height="325" src="images/default-answer-distribution.png"> <img height="325" src="images/fine-tuned-answer-distribution.png">
+<img height="325" src="images/accuracy-default.png"> <img height="325" src="images/accuracy-fine-tuned.png">
 
 ### 3.  Mean Reciprocal Rank for the default and fine-tuned reader
 
