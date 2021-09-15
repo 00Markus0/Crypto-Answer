@@ -54,7 +54,7 @@ In total we calculated the exact match values, the answer distribution, the top-
 
 ## Libraries & Tools ##
 
-For our Question answering system a combination of libraries are required. All of these libraries are free to use and neccessary ones are automatically downloaded and installed in the google colab notebook. Libraries and tools include:
+For our Question-Answering system a combination of libraries is required. The libraries are free to use and automatically downloaded and installed in our Google Colab notebook. Libraries and tools include:
 - [Haystack](https://github.com/deepset-ai/haystack/) with these tools:
   - [PreProcessor](https://haystack.deepset.ai/usage/preprocessing)
   - [DocumentStore](https://haystack.deepset.ai/usage/document-store)
@@ -62,7 +62,7 @@ For our Question answering system a combination of libraries are required. All o
   - [FARMReader](https://haystack.deepset.ai/usage/reader)
   - [Pipeline](https://haystack.deepset.ai/usage/pipelines)
   - [Webcrawler](https://haystack.deepset.ai/usage/preprocessing)
+- [Haystack's Annotation Tool](https://annotate.deepset.ai)
 - [Huggingface](https://huggingface.co/deepset/roberta-base-squad2)
-- [Annotation Tool](https://annotate.deepset.ai)
 - [Anvil](https://anvil.works/)
   - [Anvil Server](https://anvil.works/docs/uplink/quickstart)
