@@ -1,30 +1,52 @@
-# Crypto-Answer
- 
-Crypto-Answer is a Question-Answering (QA) system for cryptocurrency.
 
-## Using our system: ##
+<img height="200px" src= "https://drive.google.com/uc?export=view&id=1eJvUUvSGun8bQWWQLz3r-fci09Qumnn5">
 
-1. Upload "training_data_fine_tuning.json" to [Google Drive](http://drive.google.com/). Make sure it is in the right folder. The folder structure is as following: "Colab Notebooks/Crypto-Answer/data/squad20/".
-2. Open "Crypto-Answer.ipynb" in Google Chrome from [Google Colab](https://colab.research.google.com/). Make sure you have the runtime settings on "GPU". 
-3. Run all blocks of code in colab (with GPU enabled it will take ~ 25 min)
-  3.1 Connect colab to google drive with clicking on the link, displayed under the corresponding code block, copying the code into the input-field and finally pressing enter
-  3.2 If you do not have access to google drive, you can also upload "training_data_fine_tuning.json" directly to colab. In this case you haave to change data_dir variable to ""
-4. Open our website under: "https://crypto-answer-il2.anvil.app/"
-5. Type in any question about cryptocurrency and click "ASK" or update to real time data by clicking "UPDATE CURRENT DATA"
+## Install our system ##
 
-**Using our website requires having the colab notebook connected at all times**. If no notebook is connected an error will appear. It is also not possible to have two notebooks connected to the website at one time.
+#### Tools ####
+
+All of the tools are free to use. 
+In order to use our app you need a google account. 
+The google account is required to upload a notebook to [Google Colab](https://colab.research.google.com/). We also use [Google Drive](http://drive.google.com/) to permanently store the file for our annotated data (see "Installation").
+To create our website we used [Anvil](https://anvil.works/). It is **NOT** required to have an Anvil account to use our website.
+
+#### Installation ####
+
+To test our system Crypto-Answer please follow [these](./docs/Installation-instructions.md) instructions.
+
+
+## Crypto-Answer Architecture ##
+
+Crypto-Answer is a Question-Answering (QA) system for cryptocurrency based on [Haystack](https://github.com/deepset-ai/haystack/).
+We fine-tuned the roberta-base-squad2 model from [Huggingface](https://huggingface.co/deepset/roberta-base-squad2) and used Haystack's [Webcrawler](https://haystack.deepset.ai/usage/preprocessing) to create our document collection. Additionally we created a customized Pipeline with a combination of the Dense Passage Retriever and Elasticsearch Retriever.
+To test our QA-system Crypto-Answer we created a Website with [Anvil](https://anvil.works/docs/uplink/quickstart).
+The Website includes two functions, the running of a query ("ASK") and an update of the data for real time information on cryptocurrencies ("UPDATE CURRENT DATA").
+
+<img height="400px" src="https://drive.google.com/uc?export=view&id=1CpzXC_YuMFifrlum67ILLxWW0-X6-81E">
+
+## Webcrawler ##
+
+The Webcrawler as an illustration:
+
+<img height="300px" src="https://drive.google.com/uc?export=view&id=1e_5kdZ2uHqqG1jLTifzYh3hU8gY8ipt4">
 
 ## Website ##
 
+An Overview of our Website created with [Anvil](https://anvil.works/docs/uplink/quickstart):
+
 <img src="docs/images/crypto_answer-website.jpeg">
 
-## Tools ##
+## Evaluation ##
 
-All of the tools we use are free to use. 
-In order to use our app you need a google account. 
-The google account is required to upload a notebook to [Google Colab](https://colab.research.google.com/). We also use [Google Drive](http://drive.google.com/) to permanently store the file for our annotated data (see Using our system, 1.)
-To create our website we used [Anvil](https://anvil.works/). It is **NOT** required to have an Anvil account to use our website.
+#### Results ####
 
+We used probands to create a [Ground Truth](./docs/Ground-Truth.md) of 100 gold-standard question-answer pairs.
+
+With the Ground truth we calculated the exact match values. An answer was classified as an exact match, if it included the gold-standard answer precisely.
+
+For the [answer distribution](./docs/answer-distribution.md), the probands had to assess if the answers returned by our QA-system to their questions, satisfied their information need and at what rank.
+
+In total we calculated the exact match values, the answer distribution, the top-n-accuracy as well as the Mean reciprocal rank of our QA-systems paired with different settings for the reader and retriever. All metrics can be viewed [here](./docs/metrics.md).
 
 ## Libraries ##
 
@@ -35,4 +57,6 @@ For our Question answering system a combination of libraries are required. All o
   - [Retriever](https://haystack.deepset.ai/usage/retriever)
   - [FARMReader](https://haystack.deepset.ai/usage/reader)
   - [Pipeline](https://haystack.deepset.ai/usage/pipelines)
+  - [Webcrawler](https://haystack.deepset.ai/usage/preprocessing)
+- [Huggingface](https://huggingface.co/deepset/roberta-base-squad2)
 - [Anvil Server](https://anvil.works/docs/uplink/quickstart)
