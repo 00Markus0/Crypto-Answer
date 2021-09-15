@@ -7,19 +7,19 @@ Following we compared the default reader with the fine-tuned version.
 Additionally we used three different retriever in combination with the default and fine-tuned reader to determine which delivers the performance, including the Dense Passage Retriever, the Elasticsearch Retriever and a joined Version of both retrievers.
 
 
-### Answer Distribution for the default and fine-tuned reader
+### 1.  Answer Distribution for the default and fine-tuned reader
 
 <img height="325" src="images/accuracy-default.png"> <img height="325" src="images/accuracy-fine-tuned.png">
 
-### Top-n-accuracies for the default and fine-tuned reader
+### 2.  Top-n-accuracies for the default and fine-tuned reader
 
 <img height="325" src="images/default-answer-distribution.png"> <img height="325" src="images/fine-tuned-answer-distribution.png">
 
-### Mean Reciprocal Rank for the default and fine-tuned reader
+### 3.  Mean Reciprocal Rank for the default and fine-tuned reader
 
 <img height="275" src="images/mrr_default.png"> <img height="275" src="images/mrr_fine_tuned.png">
 
-### Exact match values for the default and fine-tuned reader
+### 4.  Exact match values for the default and fine-tuned reader
 
 <img height="275" src="images/exact_match_default.png"> <img height="275" src="images/exact_match_fine_tuned.png">
 
