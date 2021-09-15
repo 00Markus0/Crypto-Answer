@@ -63,4 +63,8 @@ For our Question answering system a combination of libraries are required. All o
 
 
 Crypto-Answer-installation.mp4
-[Installation-video](./docs/Crypto-Answer-installation.mp4)
+![Installation-video](./docs/images/Crypto-Answer-installation.mp4)
+
+<video auto-play="true" loop="loop" muted="muted" plays-inline="true">
+  <source src="./docs/images/Crypto-Answer-installation.mp4" type="video/mp4">
+</video>
