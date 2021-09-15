@@ -317,7 +317,7 @@
 
 
  
-# Non-fine-tuned reader: #
+# Default reader: #
 ## System 1 - Dense Retriever: ##
  
 | Question | result index | answer                                                                                                                                                                                                                                                                                                                                                                                                                     |
