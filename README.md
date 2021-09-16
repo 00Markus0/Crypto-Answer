@@ -1,5 +1,5 @@
 
-<img height="180px" src="/docs/images/Crypto-Answer-banner.png">
+<img height="160px" src="/docs/images/Crypto-Answer-banner.png">
 
 ## Install our system ##
 
