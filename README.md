@@ -1,5 +1,5 @@
 
-<img height="180px" src= "https://drive.google.com/uc?export=view&id=1eJvUUvSGun8bQWWQLz3r-fci09Qumnn5">
+<img height="180px" src="/docs/images/Crypto-Answer-banner.png">
 
 ## Install our system ##
 
@@ -26,13 +26,13 @@ We fine-tuned the roberta-base-squad2 model from [Huggingface](https://huggingfa
 To test our QA-system Crypto-Answer we created a Website with [Anvil](https://anvil.works/docs/uplink/quickstart).
 The Website includes two functions, the running of a query ("ASK") and an update of the data for real time information on cryptocurrencies ("UPDATE CURRENT DATA").
 
-<img height="400px" src="https://drive.google.com/uc?export=view&id=1CpzXC_YuMFifrlum67ILLxWW0-X6-81E">
+<img height="400px" src="/docs/images/QA-architecture.png">
 
 ## Webcrawler ##
 
 The Webcrawler as an illustration:
 
-<img height="300px" src="https://drive.google.com/uc?export=view&id=1e_5kdZ2uHqqG1jLTifzYh3hU8gY8ipt4">
+<img height="300px" src="/docs/images/web-crawler-detailed.png">
 
 ## Website ##
 
