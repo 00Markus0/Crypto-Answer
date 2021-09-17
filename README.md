@@ -10,12 +10,12 @@ To create our website we used [Anvil](https://anvil.works/). It is **NOT** requi
 
 #### Installation ####
 
-To test our system Crypto-Answer please follow **[these](./docs/Installation-instructions.md)** instructions.
+To install our system Crypto-Answer please follow **[these](./docs/Installation-instructions.md)** instructions.
 
 #### Instructions ####
 
 - Follow the [installation instructions](./docs/Installation-instructions.md) from before
-- Enable GPU runtime in your google colab notebook
+- Enable GPU runtime in your Google Colab notebook
 - Run all cells from top to bottom (**follow instructions at code cell 3 to mount to google drive** for fine-tuning)
 - Our [website](https://crypto-answer-il2.anvil.app/) can be used **only after all cells were executed**
 
@@ -44,9 +44,9 @@ An Overview of our Website created with [Anvil](https://anvil.works/docs/uplink/
 
 #### Results ####
 
-We used probands to create a [Ground Truth](./docs/Ground-Truth.md) of 100 gold-standard question-answer pairs.
+We used probands to create a [ground truth](./docs/Ground-Truth.md) of 100 gold-standard question-answer pairs.
 
-With the Ground truth we calculated the exact match values. An answer was classified as an exact match, if it included the gold-standard answer precisely.
+With the ground truth we calculated the exact match values. An answer was classified as an exact match, if it included the gold standard answer precisely.
 
 For the [answer distribution](./docs/answer-distribution.md), the probands had to assess if the answers returned by our QA-system to their questions, satisfied their information need and at what rank.
 
