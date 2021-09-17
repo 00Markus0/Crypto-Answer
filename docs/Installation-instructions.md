@@ -5,7 +5,7 @@
 1.  Download the repository as a Zip-file
 3.  extract the Zip-file
 4.  Please use Google Chrome to follow the next steps
-5.  upload the extracted Crypto-Answer-main folder into your Google Drive into the folder Colab Notebooks:
+5.  upload the extracted Crypto-Answer-main folder into your Google Drive into the folder Colab Notebooks (If it doesn't already exist, please create the folder Colab Notebooks):
     
     My Drive -> Colab Notebooks -> Crypto-Answer-main
     
