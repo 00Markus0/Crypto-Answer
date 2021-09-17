@@ -38,7 +38,7 @@ The Webcrawler as an illustration:
 
 An Overview of our Website created with [Anvil](https://anvil.works/docs/uplink/quickstart):
 
-<img src="docs/images/crypto_answer-website.jpeg">
+<img src="docs/images/Question-Crypto-Answer.gif">
 
 ## Evaluation ##
 
