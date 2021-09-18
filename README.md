@@ -19,6 +19,9 @@ To install our system Crypto-Answer please follow **[these](./docs/Installation-
 - Run all cells from top to bottom (**follow instructions at code cell 3 to mount to google drive** for fine-tuning)
 - Our [website](https://crypto-answer-il2.anvil.app/) can be used **only after all cells were executed**
 
+
+  A video of the execution of our Crypto-Answer QA-system can be seen [here](https://drive.google.com/file/d/1ufMNEMztdYbQdWVjrhnTfTldBmhfJ0Et/view?usp=sharing).
+
 ## Crypto-Answer Architecture ##
 
 Crypto-Answer is a Question-Answering (QA) system for cryptocurrency based on [Haystack](https://github.com/deepset-ai/haystack/).
