@@ -26,6 +26,8 @@ We fine-tuned the roberta-base-squad2 model from [Huggingface](https://huggingfa
 To test our QA-system Crypto-Answer we created a Website with [Anvil](https://anvil.works/docs/uplink/quickstart).
 The Website includes two functions, the running of a query ("ASK") and an update of the data for real time information on cryptocurrencies ("UPDATE CURRENT DATA").
 
+You can read more about it in our [paper](/docs/Crypto_Answer.pdf).
+
 <img height="400px" src="/docs/images/QA-architecture.png">
 
 ## Webcrawler ##
@@ -51,6 +53,8 @@ With the ground truth we calculated the exact match values. An answer was classi
 For the [answer distribution](./docs/answer-distribution.md), the probands had to assess if the answers returned by our QA-system to their questions, satisfied their information need and at what rank.
 
 In total we calculated the exact match values, the answer distribution, the top-n-accuracy as well as the Mean reciprocal rank of our QA-systems paired with different settings for the reader and retriever. All metrics can be viewed **[here](./docs/metrics.md)**.
+
+You can read more about it in our [paper](/docs/Crypto_Answer.pdf).
 
 ## Libraries & Tools ##
 
